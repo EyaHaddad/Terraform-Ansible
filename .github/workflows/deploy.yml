@@ -82,3 +82,6 @@ jobs:
       - name: 🧹 Nettoyage
         if: always()
         run: rm -f ~/.ssh/ec2_key
+
+
+        
